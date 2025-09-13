@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes, MessageHandler, filters
 
 # Replace with your BotFather token
-BOT_TOKEN = "8488491191:AAHqJyi3cEitruqg1VGABNHzb_CeApcIqeM"
+BOT_TOKEN = " "
 
 # Global variables
 DELIVERY_GROUP_ID = None
@@ -83,3 +83,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
